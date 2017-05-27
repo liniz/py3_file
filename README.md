@@ -1,4 +1,4 @@
-# py3_file
-selenium timetables crawler
-use in docker with python:3.5.2
-need download dirver "phantomjs" linux version
+# py3_file\n
+selenium timetables crawler\n
+use in docker with python:3.5.2\n
+need download dirver "phantomjs" linux version\n
